@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorGolden" tools:ignore="MissingDefaultResource">#F5B041</color>
+    <color name="colorRedBlack">#DF0101</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGolden_">#ffd700</color>
+    <color name="colorSilver_">#C0C0C0</color>
+
+    <color name="colorRedkalka">#e1b0b0</color>
+    <color name="colorBlack_">#000000</color>
+    <color name="colorTransBlack_" tools:ignore="MissingDefaultResource">#80000000</color>
+    <color name="colorTransMidBlack_">#50000000</color>
+    <color name="colorTrans_">#00000000</color>
+    <color name="colorTrans_Halka">#20000000</color>
+    <color name="appbar">#e06c77</color>
+    <color name="appbar1">#540073</color>
+    <color name="appbar2">#70008a</color>
+    <color name="appbar3">#7e0094</color>
+
+    <color name="silver">#d6d6d6</color>
+    <color name="neon">#29bde5</color>
+    <color name="bgColor">#F8F8F8</color>
+    <color name="appColor">#2A9C68</color>
+    <color name="appColorgreen">#4662A2</color>
+    <color name="appMidColorgreen">#504662A2</color>
+
+</resources>

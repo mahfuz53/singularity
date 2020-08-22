@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Singularity</string>
+    <string name="action_settings" tools:ignore="ExtraTranslation">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+
+
+
+
+
+
+
+    <string name="internetConnection"> Sorry no internet connection available</string>
+    <string name="reload">Please Re-Load this application &amp; enable all permission to access this apps.</string>
+    <string name="robotoBold">Roboto-Bold.ttf</string>
+    <string name="robotoRegular">Roboto-Regular.ttf</string>
+    <string name="logout">Logout</string>
+    <string name="sorry">No Data Available</string>
+    <string name="success">Data Updated.</string>
+    <string name="tryagain">Please Try Again Later</string>
+    <string name="invalid">Invalid Activity</string>
+
+
+    <string name="storelist">Store List</string>
+    <string name="login">Login</string>
+</resources>
